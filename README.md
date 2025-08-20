@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Oxford Vaccine Group at University of Oxford as senior bioinformatician
-- 🔬 Find more about my research area at ResearchGate (https://www.researchgate.net/profile/Andre-Goncalves-57)
-- 📫 How to reach me: find me on social media X (https://x.com/andreaquime)
+- 🔭 I’m currently working at the Oxford Vaccine Group, University of Oxford, as a Senior Bioinformatician
+- 🔬 Learn more about my research on ResearchGate
+- 📫 How to reach me: find me on X (Twitter)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: …
 
 <!-- - 👯 I’m looking to collaborate on -->
 
