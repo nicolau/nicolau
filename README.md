@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Oxford Vaccine Group at University of Oxford as senior bioinformatician
+- 🔬 Find more about my research area at ResearchGate (https://www.researchgate.net/profile/Andre-Goncalves-57)
 - 📫 How to reach me: find me on social media X (https://x.com/andreaquime)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
